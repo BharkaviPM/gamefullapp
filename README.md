@@ -77,5 +77,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ---
 ![Image](https://github.com/user-attachments/assets/38e40e4c-27d9-4b83-a746-87c8473db351)
 ---
+**Video Output**
+---
+https://github.com/user-attachments/assets/d3710e5a-a2cb-4e9f-be1c-d7ff0447c1b9
+---
 >>>>>>> df88bfa (Initial commit for React client)
 
